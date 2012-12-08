@@ -4,7 +4,7 @@ Life
 
 This repository contains a number of different implementations of the [Conway's
 Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) that I
-worked on during the [Global Day of Coderetreat
+worked on with fellow developers during the [Global Day of Coderetreat
 2012](http://gathers.us/events/global-day-of-coderetreat-2012-cern-geneva-switzerland)
 at CERN in Geneva, Switzerland.
 
